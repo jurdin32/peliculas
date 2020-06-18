@@ -1,0 +1,22 @@
+.App {
+  padding-top: 36px;
+  text-align: center;
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+}
+.pelicula{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.pelicula-item{
+  margin-bottom: 24px;
+  width: 30%;
+
+}
+
